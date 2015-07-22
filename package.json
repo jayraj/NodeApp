@@ -1,0 +1,23 @@
+{
+  "name": "NodeApp",
+  "version": "1.0.0",
+  "description": "this is node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayraj/NodeApp.git"
+  },
+  "keywords": [
+    "node",
+    "git"
+  ],
+  "author": "jbhatta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayraj/NodeApp/issues"
+  },
+  "homepage": "https://github.com/jayraj/NodeApp"
+}
